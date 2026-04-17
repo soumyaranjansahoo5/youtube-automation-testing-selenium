@@ -56,6 +56,14 @@ https://github.com/soumyaranjansahoo5/youtube-automation-testing-selenium
 
 ---
 
+## 🔄 Framework Flow
+
+1. TestNG triggers execution via testng.xml  
+2. Base class initializes WebDriver  
+3. Page classes handle UI actions  
+4. Test classes execute scenarios  
+5. Reports generated after execution  
+
 ## 🔍 QA Coverage
 
 * Functional Testing
