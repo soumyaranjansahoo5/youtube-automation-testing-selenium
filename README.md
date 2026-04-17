@@ -55,20 +55,23 @@ https://github.com/soumyaranjansahoo5/youtube-automation-testing-selenium
 * `utils/` → Reusable utilities
 
 ## 📂 Project Structure
+
+```bash
 youtube-automation-testing-selenium/
 │
 ├── src/test/java
-│   ├── base          /# WebDriver setup and initialization
-│   ├── pages        /# Page Object Model classes
-│   ├── testcases  /# Test execution classes
-│   └── utils    /# Reusable utility methods
+│   ├── base/        # WebDriver setup and initialization
+│   ├── pages/       # Page Object Model classes
+│   ├── testcases/   # Test execution classes
+│   └── utils/       # Reusable utility methods
 │
-├── screenshots/# Test execution screenshots
+├── screenshots/     # Test execution screenshots
 │
-├── testng.xml    /# TestNG configuration file
-├── pom.xml      /# Maven dependencies
-├── README.md   /# Project documentation
-└── .gitignore /# Ignored files
+├── testng.xml       # TestNG configuration file
+├── pom.xml          # Maven dependencies
+├── README.md        # Project documentation
+└── .gitignore       # Ignored files
+```
 
 ## 🔄 Framework Flow
 
